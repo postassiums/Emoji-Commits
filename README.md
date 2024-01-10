@@ -200,6 +200,11 @@ The Emoji Pattern I use for all of my commits
         <td>🔨<code>:hammer:</code></td>
         <td><code>build</code></td>
       </tr>
+      <tr>
+        <td>typo</td>
+        <td>✍️<code>:writing_hand:</code></td>
+        <td><code>fix</code></td>
+      </tr>
     
   
   </tbody>
