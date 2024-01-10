@@ -188,7 +188,7 @@ The Emoji Pattern I use for all of my commits
     <tr>
         <td>Docker Files</td>
         <td>🐳<code>:whale:</code></td>
-        <td>build ou ci</td>
+        <td><code>build</code> or <code>ci</code></td>
     </tr>
     <tr>
         <td>Git related files ( .gitignore )</td>
@@ -198,7 +198,7 @@ The Emoji Pattern I use for all of my commits
       <tr>
         <td>build files</td>
         <td>🔨<code>:hammer:</code></td>
-        <td>build</td>
+        <td><code>build</code></td>
       </tr>
     
   
